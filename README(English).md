@@ -10,7 +10,9 @@ Like this, I was able to have a case of study to improve my Data Analytics skill
 
 ## Mentions
 
-I want to say that this project was built by me except by just one file that was acquired from another user of GitHub which provides to the community a list of Surnames (In this case I used a list of Surnames from the UK). I would love to remember who was the user but I couldn't find it again. 
+I want to say that this project was built by me except by just one file that was acquired from another user of GitHub which provides to the community a list of Surnames (In this case I used a list of Surnames from the UK). The link and the user will be bellow, thank you!
+
+Uk.text provider: https://github.com/smashew/NameDatabases
 
 
 
