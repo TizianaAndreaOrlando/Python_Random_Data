@@ -10,7 +10,7 @@ Like this, I was able to have a case of study to improve my Data Analytics skill
 
 ## Mentions
 
-I want to say that this project was built by me and just one file was acquired from another user of GitHub which provides to the community a list of Surnames (In this case I used a list of Surnames from the UK). So the file UK.txt is wasn't built by me. 
+I want to say that this project was built by me except by just one file that was acquired from another user of GitHub which provides to the community a list of Surnames (In this case I used a list of Surnames from the UK).
 
 
 
