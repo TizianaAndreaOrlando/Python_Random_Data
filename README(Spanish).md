@@ -14,4 +14,7 @@ Así, pude tener un caso de estudio para poder mejorar mis habilidades de analis
 
 Quiero dejar en claro que este proyecto fue creado por mi exceptuando un archivo 'Uk.txt' que fue publicado por otro usuario de GitHub haciala comunidad. Nos daba una lista con
 una serie de apellidos del Reino Unido.  
-Quiero aclarar que me encantaria poder darle el credito a este usuario de GitHub pero al momento en el que escribi el codigo no anote su GitHub user. 
+Voy a dejar el link del usuario debajo de esta aclaración. 
+¡Muchas gracias!
+
+Link de usuario UK.txt: https://github.com/smashew/NameDatabases
