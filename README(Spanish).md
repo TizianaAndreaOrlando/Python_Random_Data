@@ -6,11 +6,10 @@ El usuario tendra la posibilidad de elegir la información que quiera visualizar
 ### Obejetivos
 
 Este programa fue usado para poder crear la base de datos de la empresa ficticia 'Kaixin S.A'
-El objetivo de este proyecto es el de obtener información que no tenemos creada y que luego tengamos la posibilidad de volvarlo en una hoja de calculo como lo es Excel de asi quererlo
-para luego poder analizar los datos con un programa de visualización de datos (En mi caso particular elegí 'Tableau'). 
-Así, pude tener un caso de estudio para poder mejorar mis habilidades de analisis de datos o 'Data Analytics'.
+El objetivo de este proyecto es el de obtener información que no tenemos creada y que luego tengamos la posibilidad de volcarlo en una hoja de cálculo como lo es Excel de asi quererlo
+para luego poder analizar los datos con visualizador de datos (En mi caso particular elegí 'Tableau'). 
 
-## Mentions
+## Menciones
 
 Quiero dejar en claro que este proyecto fue creado por mi exceptuando un archivo 'Uk.txt' que fue publicado por otro usuario de GitHub haciala comunidad. Nos daba una lista con
 una serie de apellidos del Reino Unido.  
