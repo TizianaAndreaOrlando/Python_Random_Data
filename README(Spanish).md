@@ -11,7 +11,7 @@ para luego poder analizar los datos con algun tipo de software visualizador de d
 
 ## Menciones
 
-Quiero dejar en claro que este proyecto fue creado por mi exceptuando un archivo 'Uk.txt' que fue publicado por otro usuario de GitHub haciala comunidad. Nos daba una lista con
+Quiero dejar en claro que este proyecto fue creado por mi exceptuando el uso de un archivo 'Uk.txt' que fue publicado por otro usuario de GitHub disponible para la comunidad. El archivo nos brinda una lista con
 una serie de apellidos del Reino Unido.  
 Voy a dejar el link del usuario debajo de esta aclaración. 
 ¡Muchas gracias!
