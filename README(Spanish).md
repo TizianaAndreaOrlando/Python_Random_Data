@@ -6,7 +6,7 @@ El usuario tendra la posibilidad de elegir la información que quiera visualizar
 ### Obejetivos
 
 Este programa fue usado para poder crear la base de datos de la empresa ficticia 'Kaixin S.A'
-El objetivo de este proyecto es el de obtener información que no tenemos creada y que luego tengamos la posibilidad de volcarlo en una hoja de cálculo como lo es Excel de asi quererlo
+El objetivo de este proyecto es el de obtener información que no tenemos ni disponemos y que luego tengamos la posibilidad de volcarlo en una hoja de cálculo como lo es Excel de asi quererlo
 para luego poder analizar los datos con visualizador de datos (En mi caso particular elegí 'Tableau'). 
 
 ## Menciones
