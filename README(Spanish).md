@@ -1,6 +1,6 @@
 # Python_Random_Data 
 
-Este es un programa que nos devuelve una cantidad x de clientes (elegidos por nosotros) en un determinado periodo de tiempo (En este caso en años). 
+Este programa nos devuelve una cantidad x de clientes (elegidos por nosotros) en un determinado período de tiempo (En este caso en años). 
 El usuario tendrá la posibilidad de elegir la información que quiera visualizar. 
 
 ### Obejetivos
